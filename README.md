@@ -1,6 +1,7 @@
-# DMP
+# DMP 
 Title: Impact of Covid-19 on the Countries’ Performance during the Tokyo Summer Olympics 2020
 
+Used languages and tool: MySQL, Python(Pandas, Numpy, Matplotlib, regex), Jupyter Notebook
 
 # Introduction:
 
